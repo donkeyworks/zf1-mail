@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-mail",
+    "name": "donkeyworks/zendframework1-mail",
     "description": "Zend Framework 1 Mail component",
     "type": "library",
     "keywords": [
@@ -13,12 +13,12 @@
     "require": {
         "php": ">=7.0.0",
         "ext-ctype": "*",
-        "diablomedia/zendframework1-exception": "^1.0.0",
-        "diablomedia/zendframework1-config": "^1.0.0",
-        "diablomedia/zendframework1-loader": "^1.0.0",
-        "diablomedia/zendframework1-mime": "^1.0.0",
-        "diablomedia/zendframework1-validate": "^1.0.0",
-        "diablomedia/zendframework1-date": "^1.0.0"
+        "donkeyworks/zendframework1-exception": "^1.0.0",
+        "donkeyworks/zendframework1-config": "^1.0.0",
+        "donkeyworks/zendframework1-loader": "^1.0.0",
+        "donkeyworks/zendframework1-mime": "^1.0.0",
+        "donkeyworks/zendframework1-validate": "^1.0.0",
+        "donkeyworks/zendframework1-date": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
